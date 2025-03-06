@@ -1,5 +1,6 @@
 .{
-    .name = "zjobs",
+    .name = .zjobs,
+    .fingerprint = 0xfc97bdaa669adbe7,
     .version = "0.3.0-dev",
     .paths = .{
         "build.zig",
